@@ -5,6 +5,6 @@ export default () => (
     <Head>
       <title>next-pwa example</title>
     </Head>
-    <h1>Next.js + PWA = AWESOME!</h1>
+    <h1>Adam test</h1>
   </>
 )
